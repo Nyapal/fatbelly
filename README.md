@@ -1,0 +1,1 @@
+Fat Belly Boutique is an online women's beauty and fashion boutique. I started this project because I'm at Make School learning alot of valueable information on business operations and am interested in using it in the real world. I don't have any previous entrepenuership experience and thought this would be a great experiement and opportunity to learn
