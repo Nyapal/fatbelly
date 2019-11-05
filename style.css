@@ -1,0 +1,82 @@
+body {
+  margin: 0px;
+  background-color: blanchedalmond;
+}
+
+nav {
+  padding: 7px;
+  text-align: center;
+  background-color: gray;
+}
+
+.location-img {
+  width: 400px;
+  padding: 5px;
+}
+
+.images-row2 {
+  display: flex;
+}
+
+.locations-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#nav-links {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  text-align: center;
+}
+
+#shop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row2-img {
+  width: 500px;
+}
+
+.shop-img {
+  width: 700px;
+}
+.mag-imgs {
+  text-align: center;
+  /* display: flex; */
+}
+#mag-img1 {
+  width: 800px;
+}
+
+#mag-img2 {
+  width: 400px
+}
+#contact {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 10px;
+}
+
+.contact1 {
+  text-align: center;
+}
+
+.contact2-button {
+  text-align: center;
+}
+
+.blogger-img {
+  height: 500px;
+}
+
+.blogger-imgs {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-evenly;
+}
